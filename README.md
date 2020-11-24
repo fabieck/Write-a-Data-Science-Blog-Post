@@ -20,7 +20,9 @@ This project is part of the Udacity Data Scientists Nanodegree Program.
 For this project, I was interestested in using In-depth soccer statistics from Jash from Kaggle to better understand:
 
 Question 1: Does an offensive player score more goals than a defensive player?What is the salary difference in the western world and in the eastern world?
+
 Question 2: Do offensive or defensive players have a higher quotient of goals per xG?Are there more jobs opportunity in the western world than that in the eastern world?
+
 Question 3: Who are the ten most efficient players of the seasons considered?
 
 # File Descriptions
